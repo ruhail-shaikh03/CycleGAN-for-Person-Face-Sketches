@@ -25,4 +25,3 @@ This dataset contains two domains:
 *   End-to-end training.
 *   Model weights are saved after every epoch to allow resuming training.
 
-## Project Structure (Example)
